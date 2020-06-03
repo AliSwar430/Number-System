@@ -1,0 +1,10 @@
+C:\Users\Mustafa\Creative Cloud Files\Desktop\test123\bin\Debug\test123.exe.config
+C:\Users\Mustafa\Creative Cloud Files\Desktop\test123\bin\Debug\test123.exe
+C:\Users\Mustafa\Creative Cloud Files\Desktop\test123\bin\Debug\test123.pdb
+C:\Users\Mustafa\Creative Cloud Files\Desktop\test123\obj\Debug\test123.csprojAssemblyReference.cache
+C:\Users\Mustafa\Creative Cloud Files\Desktop\test123\obj\Debug\test123.Form1.resources
+C:\Users\Mustafa\Creative Cloud Files\Desktop\test123\obj\Debug\test123.Properties.Resources.resources
+C:\Users\Mustafa\Creative Cloud Files\Desktop\test123\obj\Debug\test123.csproj.GenerateResource.cache
+C:\Users\Mustafa\Creative Cloud Files\Desktop\test123\obj\Debug\test123.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Creative Cloud Files\Desktop\test123\obj\Debug\test123.exe
+C:\Users\Mustafa\Creative Cloud Files\Desktop\test123\obj\Debug\test123.pdb
